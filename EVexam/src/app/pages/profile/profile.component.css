@@ -1,0 +1,18 @@
+* {
+    color: aliceblue;
+  }
+  mat-card{
+    background: rgba(8, 14, 121, 0.73);
+    color: aliceblue;
+  }
+
+  .example-card {
+    max-width: 300px;
+    position: relative;
+    left: 30%;
+  }
+
+  .example-header-image {
+    background-image: url('https://scontent.fmnl4-3.fna.fbcdn.net/v/t1.6435-9/246243255_3159943397574719_301825635865359066_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHI7zGhDD6q62P9coU9GFm7vskw0lptMXO-yTDSWm0xc5BM9wzITJJJc0Gx8GuFkNCLnn-LXExAnhD-Oh26iGu4&_nc_ohc=myqy7bk3HM0AX88DZ_P&_nc_ht=scontent.fmnl4-3.fna&oh=ac6c6a725ccf56efa0787d64f155fa83&oe=619FC717');
+    background-size: cover;
+  }

@@ -1,0 +1,53 @@
+*{
+    color: white;
+  }
+  .app-sidenav-container{
+    flex: 1;
+    width: 100%;
+    height: 100%;
+    min-width: 100%;
+    min-height: 100%;
+    background: rgba(3, 1, 37, 0.89);
+  }
+  .app-sidenav-content{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+
+  }
+  .app-sidenav{
+    width: 200px;
+    background: rgba(79, 4, 87, 0.2);
+  }
+
+  .wrapper{
+    margin: 10px;
+  }
+  .anchor_class{
+    margin-left: 10px;
+  }
+  .card{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+
+  mat-list-item:hover{
+    background: rgba(230, 0, 255, 0.2);
+    border-radius: 1232px;
+  }
+
+  mat-toolbar{
+    background: rgba(154, 2, 171, 0.2);
+  }
+
+  a{
+    text-decoration: none;
+    color: aliceblue;
+  }
+  mat-list{
+    padding: 0px;
+  }
+  p{
+    text-align: center;
+  }
